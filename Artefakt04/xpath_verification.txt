@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: action_bar_title
+TAG: TextView
+STATUS: ZALICZONE
