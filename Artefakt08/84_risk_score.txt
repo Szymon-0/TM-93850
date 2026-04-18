@@ -1,0 +1,23 @@
+ANDROID SECURITY SCORE REPORT
+==================================================
+
+FINAL SCORE: 0.0 / 100
+RISK LEVEL: 🔴 CRITICAL
+
+DEDUCTION BREAKDOWN:
+------------------------------
+• 🔴 android.permission.SEND_SMS (-40)
+• 🔴 android.permission.RECEIVE_SMS (-40)
+• 🔴 android.permission.RECORD_AUDIO (-40)
+• 🔴 android.permission.CAMERA (-40)
+• 🟠 android.permission.READ_CONTACTS (-20)
+• 🟠 android.permission.WRITE_CONTACTS (-20)
+• 🟠 android.permission.ACCESS_COARSE_LOCATION (-20)
+• 🔴 android:debuggable=true (-30)
+• 🔴 CVE-2016-6650 (-25)
+• 🟠 CVE-2018-9445 (-15)
+• 🟠 CVE-2015-6420 (-15)
+• 🟡 CVE-2017-13253 (-8)
+
+RECOMMENDATION:
+🚫 CRITICAL - DO NOT DEPLOY!

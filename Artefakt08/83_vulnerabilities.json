@@ -1,0 +1,46 @@
+{
+  "audit_date": "2026-04-18 10:19:59",
+  "total_libraries": 4,
+  "vulnerable_libraries": 4,
+  "critical_count": 1,
+  "high_count": 2,
+  "vulnerabilities": [
+    {
+      "library": "com.google.android.gms:10.0.1",
+      "cve": "CVE-2018-9445",
+      "severity": "HIGH",
+      "cvss_score": "7.5",
+      "description": "DoS via malformed Google Play Services request",
+      "fixed_version": "11.0.0+",
+      "status": "VULNERABLE"
+    },
+    {
+      "library": "com.squareup.okhttp:2.7.5",
+      "cve": "CVE-2016-6650",
+      "severity": "CRITICAL",
+      "cvss_score": "9.8",
+      "description": "HTTP/2 DoS (Ping Flood Attack)",
+      "fixed_version": "3.0.0+",
+      "status": "VULNERABLE"
+    },
+    {
+      "library": "org.apache.commons:1.0.0",
+      "cve": "CVE-2015-6420",
+      "severity": "HIGH",
+      "cvss_score": "7.5",
+      "description": "Apache Commons FileUpload RCE",
+      "fixed_version": "1.3.3+",
+      "status": "VULNERABLE"
+    },
+    {
+      "library": "com.android.support:25.0.0",
+      "cve": "CVE-2017-13253",
+      "severity": "MEDIUM",
+      "cvss_score": "5.5",
+      "description": "Support Library WebView XSS",
+      "fixed_version": "26.0.0+",
+      "status": "VULNERABLE"
+    }
+  ],
+  "risk_level": "CRITICAL"
+}
