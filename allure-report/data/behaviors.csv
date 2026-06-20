@@ -1,0 +1,7 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","2","Attachments & Failure Handling","0","0","Failure with screenshots and API logs","0"
+"0","Mobile Testing Platform","0","Login Module","2","0","Valid user login","0"
+"0","","1","10.1: Inicjalizacja Allure","1","0","","0"
+"0","","1","10.1: Inicjalizacja Allure","0","0","Test negatywny – powinien nie przejść","0"
+"0","Mobile Testing Platform","0","Login Module","2","0","Invalid user login","0"
+"0","","0","10.1: Inicjalizacja Allure","1","0","Test pozytywny – powinien przejść","0"
